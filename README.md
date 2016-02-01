@@ -3,6 +3,8 @@
 Drag an image from your desktop. Drop in on another image in a website.
 Boom, it's replaced! 8th Wonder of the world!
 
+![Example in the demo](./demo/demo.gif)
+
 Let's show off with [the demo](http://vinyll.github.io/pictup/demo)!
 
 
